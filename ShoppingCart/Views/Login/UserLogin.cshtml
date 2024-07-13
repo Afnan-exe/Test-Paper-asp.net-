@@ -1,0 +1,84 @@
+﻿@model ShoppingCart.Models.LoginRegister
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" href="~/Logincss/css/style.css">
+</head>
+
+<body class="img js-fullheight" style="background-image: url(/Logincss/images/bg.jpg) ;">
+	
+		<div class="container">
+		
+			<div class="row justify-content-center">
+				<div class="col-md-6 col-lg-4">
+					<div class="login-wrap p-0">
+						<h3 class="mb-4 mt-5 text-center">Have an account?</h3>
+						<form asp-action="UserLogin" class="signin-form">
+							
+							<div class="form-group" >
+								<input type="email" asp-for="Email" class="form-control" placeholder="Email" required>
+								<span asp-validation-for="Email" class="text-danger"></span>
+							</div>
+							<div class="form-group">
+								<input id="password-field" asp-for="Password" type="password" class="form-control" placeholder="Password" required>
+								
+								<span asp-validation-for="Password" class="text-danger"></span>
+								<p class="text-danger">@ViewBag.m</p>
+							</div>
+							<div class="form-group">
+								<input type="submit" value="Sign in" class="form-control btn btn-primary submit px-3"/>
+							</div>
+							<div class="form-group d-md-flex">
+								<div class="w-50">
+									<label class="checkbox-wrap checkbox-primary">
+										Remember Me
+										<input type="checkbox" checked>
+										<span class="checkmark"></span>
+									</label>
+								</div>
+								<div class="w-50 text-md-right">
+									<a href="#" style="color: #fff">Forgot Password</a>
+								</div>
+							</div>
+							
+						</form>
+						<p class="w-100 text-center">&mdash; Or Don't Have an Account &mdash;</p>
+						<div class="social d-flex text-center">
+							<a asp-controller="Home" asp-action="Index" class="px-2 mr-2 py-2 mr-md-1 rounded"><span class=" mr-2"></span> Back To Home</a>
+							<a asp-action="Create" class="px-2 py-2 ml-md-1 rounded"><span class=" mr-2"></span> Register</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	
+	@section Scripts {
+		@{
+			await Html.RenderPartialAsync("_ValidationScriptsPartial");
+		}
+	}
+
+	<script src="~/Logincss/js/jquery.min.js"></script>
+	<script src="~/Logincss/js/popper.js"></script>
+	<script src="~/Logincss/js/bootstrap.min.js"></script>
+	<script src="~/Logincss/js/main.js"></script>
+
+</body>
+
+
+
+</html>

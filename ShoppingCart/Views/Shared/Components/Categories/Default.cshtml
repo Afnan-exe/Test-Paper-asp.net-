@@ -1,0 +1,13 @@
+﻿@using ShoppingCart.Models;
+@model IEnumerable<Category>
+
+<div class="btn-group">
+    <button type="button" class="btn btn-secondary btn-sm dropdown-toggle" id="dropdownMenuReference" data-toggle="dropdown">Filter</button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuReference">
+        @foreach(var item in Model){
+        <a asp-controller="Home" asp-action="Shop" asp-route-CategorySlug="@item.slug" class="dropdown-item" >@item.CatName</a>
+        }
+
+
+    </div>
+</div>

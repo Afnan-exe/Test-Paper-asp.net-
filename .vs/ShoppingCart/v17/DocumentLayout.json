@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\shoppingcart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\shoppingcart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\models\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\models\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\models\\loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\models\\loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\hp\\onedrive\\desktop\\shoppingcart\\shoppingcart\\wwwroot\\assets\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{31B0578E-AA91-4ED8-9CFC-6D92FF75DD0C}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\wwwroot\\assets\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCart.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+              "RelativeDocumentMoniker": "ShoppingCart\\ShoppingCart.csproj",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+              "RelativeToolTip": "ShoppingCart\\ShoppingCart.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T21:30:53.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCart\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ShoppingCart\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:40:24.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ShoppingCart\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:33:17.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCart\\Views\\Home\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "ShoppingCart\\Views\\Home\\Shop.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:12:47.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Models\\CategoriesViewComponent.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Models\\CategoriesViewComponent.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Models\\CategoriesViewComponent.cs",
+              "RelativeToolTip": "ShoppingCart\\Models\\CategoriesViewComponent.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:11:18.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCart\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "RelativeToolTip": "ShoppingCart\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:11:08.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ShoppingCart\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:57:01.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ShoppingCart\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAzwB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:55:40.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Models\\Products.cs",
+              "RelativeToolTip": "ShoppingCart\\Models\\Products.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA/wCsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:53:52.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Models\\Category.cs",
+              "RelativeToolTip": "ShoppingCart\\Models\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:53:45.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Models\\LoginRegister.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Models\\LoginRegister.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Models\\LoginRegister.cs",
+              "RelativeToolTip": "ShoppingCart\\Models\\LoginRegister.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA8wBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T15:27:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCart\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ShoppingCart\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAADIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-18T07:55:26.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCart\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ShoppingCart\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T20:52:10.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCart\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "ShoppingCart\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T00:01:00.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCart\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "ShoppingCart\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T00:01:05.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\Models\\Cart.cs",
+              "RelativeToolTip": "ShoppingCart\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-18T07:58:29.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\wwwroot\\assets\\css\\app.css",
+              "RelativeDocumentMoniker": "ShoppingCart\\wwwroot\\assets\\css\\app.css",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ShoppingCart\\ShoppingCart\\wwwroot\\assets\\css\\app.css",
+              "RelativeToolTip": "ShoppingCart\\wwwroot\\assets\\css\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-06-18T10:25:05.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
